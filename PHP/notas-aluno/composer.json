@@ -1,0 +1,15 @@
+{
+    "name": "deivz/notas-aluno",
+    "autoload": {
+        "psr-4": {
+            "Deivz\\NotasAluno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deivz",
+            "email": "carlosd_oliveira@hotmail.com"
+        }
+    ],
+    "require": {}
+}

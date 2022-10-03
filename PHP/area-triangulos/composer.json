@@ -1,0 +1,16 @@
+{
+    "name": "deivz/area-triangulos",
+    "description": "calcular a area de dois triangulos e apresentar o maior deles",
+    "autoload": {
+        "psr-4": {
+            "Deivz\\AreaTriangulos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deivz",
+            "email": "carlosd_oliveira@hotmail.com"
+        }
+    ],
+    "require": {}
+}

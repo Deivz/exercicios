@@ -1,0 +1,15 @@
+{
+    "name": "deivz/estoque",
+    "autoload": {
+        "psr-4": {
+            "Deivz\\Estoque\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deivz",
+            "email": "carlosd_oliveira@hotmail.com"
+        }
+    ],
+    "require": {}
+}

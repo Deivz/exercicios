@@ -1,0 +1,15 @@
+{
+    "name": "deivz/retangulo",
+    "autoload": {
+        "psr-4": {
+            "Deivz\\Retangulo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deivz",
+            "email": "carlosd_oliveira@hotmail.com"
+        }
+    ],
+    "require": {}
+}
