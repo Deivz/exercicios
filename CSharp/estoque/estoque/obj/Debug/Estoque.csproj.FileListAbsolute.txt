@@ -1,0 +1,8 @@
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\bin\Debug\Estoque.exe.config
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\bin\Debug\Estoque.exe
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\bin\Debug\Estoque.pdb
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\obj\Debug\Estoque.csproj.AssemblyReference.cache
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\obj\Debug\Estoque.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\obj\Debug\Estoque.exe
+D:\Projetos\Exercicios\CSharp\estoque\Estoque\Estoque\obj\Debug\Estoque.pdb

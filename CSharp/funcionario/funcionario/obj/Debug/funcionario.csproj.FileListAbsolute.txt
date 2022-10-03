@@ -1,0 +1,8 @@
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\bin\Debug\funcionario.exe.config
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\bin\Debug\funcionario.exe
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\bin\Debug\funcionario.pdb
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\obj\Debug\funcionario.csproj.AssemblyReference.cache
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\obj\Debug\funcionario.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\obj\Debug\funcionario.csproj.CoreCompileInputs.cache
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\obj\Debug\funcionario.exe
+D:\Projetos\Exercicios\CSharp\funcionario\funcionario\obj\Debug\funcionario.pdb

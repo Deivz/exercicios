@@ -1,0 +1,8 @@
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\bin\Debug\area-triangulo.exe.config
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\bin\Debug\area-triangulo.exe
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\bin\Debug\area-triangulo.pdb
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\obj\Debug\area-triangulo.csproj.AssemblyReference.cache
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\obj\Debug\area-triangulo.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\obj\Debug\area-triangulo.csproj.CoreCompileInputs.cache
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\obj\Debug\area-triangulo.exe
+D:\Projetos\Exercicios\CSharp\area-triangulo\area-triangulo\obj\Debug\area-triangulo.pdb

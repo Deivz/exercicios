@@ -1,0 +1,12 @@
+{
+  "name": "area-triangulo",
+  "version": "1.0.0",
+  "description": "Calcular a área de dois triângulos e exibir qual a maior área encontrada",
+  "main": "programa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deivz",
+  "license": "ISC",
+  "type": "module"
+}

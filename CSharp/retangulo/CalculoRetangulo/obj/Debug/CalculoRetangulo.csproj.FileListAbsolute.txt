@@ -1,0 +1,8 @@
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\bin\Debug\CalculoRetangulo.exe.config
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\bin\Debug\CalculoRetangulo.exe
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\bin\Debug\CalculoRetangulo.pdb
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\obj\Debug\CalculoRetangulo.csproj.AssemblyReference.cache
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\obj\Debug\CalculoRetangulo.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\obj\Debug\CalculoRetangulo.csproj.CoreCompileInputs.cache
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\obj\Debug\CalculoRetangulo.exe
+D:\Projetos\Exercicios\CSharp\retangulo\CalculoRetangulo\CalculoRetangulo\obj\Debug\CalculoRetangulo.pdb
